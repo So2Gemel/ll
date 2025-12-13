@@ -1,5 +1,5 @@
-{ 
-   "version": "1.1", 
-  "lib_url": "https://raw.githubusercontent.com/So2Gemel/ll/main/ndk.tar.gz",
-   "changelog": "CHANNEL @NIKA_SOURCE_MODS \n by @Sanji1_Owner" 
- }
+{
+  "version": "1.1",
+  "lib_url": "https://www.googleapis.com/drive/v3/files/1ZtFI6eEJM0FBWMTCx4q4NUZ9C8daMtVZ?alt=media&key=AIzaSyD63APk0o8FEjfDmxbNEezlrcIcNHIEFUg",
+  "changelog": "NDK release via Google Drive API"
+}
